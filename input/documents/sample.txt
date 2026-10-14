@@ -1,0 +1,5 @@
+INTRODUCTION
+
+This is a sample paragraph for chunking.
+
+Table 1: Values
